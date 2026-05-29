@@ -50,8 +50,11 @@
 - 🌊 **Chlorophyll-a Mapping and Prediction in the Mar Menor Lagoon Using C2RCC-Processed Sentinel-2 Imagery** — Martínez-Ibarra, González-Vidal, **Cánovas-Rodríguez**, Skármeta · *arXiv:2510.09736* (Oct 2025) · [📄 paper](https://arxiv.org/abs/2510.09736)
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adricanovas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adricanovas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+  <a href="https://github.com/adricanovas">
+    <img alt="Adrián's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adricanovas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="160"/>
+  </a>
+  <a href="https://github.com/adricanovas">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adricanovas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="160"/>
+  </a>
 </p>
