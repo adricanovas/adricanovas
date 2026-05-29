@@ -52,9 +52,10 @@
 ---
 <p align="center">
   <a href="https://github.com/adricanovas">
-    <img alt="Adrián's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adricanovas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="160"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adricanovas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/>
   </a>
+
   <a href="https://github.com/adricanovas">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adricanovas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="160"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adricanovas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
   </a>
 </p>
