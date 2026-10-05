@@ -1,61 +1,57 @@
-<h1 align="center">Hi, I'm Adrián 👋</h1>
+## Adrián Cánovas Rodríguez
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=PhD+Student" alt="Typing SVG" />
+PhD candidate in Computer Science and Associate Professor at the **University of Murcia** (Department of Information and Communication Engineering), Spain.
+
+My research applies machine learning and deep learning to **environmental monitoring**, fusing heterogeneous data sources such as satellite imagery, IoT sensor networks and meteorological records to address sustainability problems: water quality, soil moisture, crop health and land degradation. In 2026 I completed a research stay at **IBM Research Europe** (Dublin, Ireland).
+
+<p>
+  <a href="https://adricanovas.github.io/"><img src="https://img.shields.io/badge/Website-adricanovas.github.io-24292F?style=flat-square&logo=githubpages&logoColor=white" alt="Website"/></a>
+  <a href="https://orcid.org/0009-0002-7986-5615"><img src="https://img.shields.io/badge/ORCID-0009--0002--7986--5615-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.linkedin.com/in/adricanovas/"><img src="https://img.shields.io/badge/LinkedIn-adricanovas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:adriancr@um.es"><img src="https://img.shields.io/badge/Email-adriancr%40um.es-555555?style=flat-square" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <a href="https://adricanovas.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adricanovas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:adriancr@um.es"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+### Research interests
 
----
+- Remote sensing for water and land monitoring (Sentinel-2, PlanetScope)
+- Deep learning for time series and multi-source data fusion
+- Computer vision for precision agriculture and forest inventory
+- AIoT and federated learning for distributed environmental sensing
 
-### 🛠️ Stack
+### Publications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Federated Learning](https://img.shields.io/badge/Federated_Learning-6A1B9A?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Sentinel-2](https://img.shields.io/badge/Sentinel--2-0B3D91?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- **AIoT-Driven Pest Monitoring Approach for Real-Time *Tuta absoluta* Detection and Population Prediction in a Controlled Greenhouse Environment**<br>
+  M. Bibi, S. Z. Khan, **A. Cánovas-Rodríguez**, M. Á. González-Illán, M. F. García-Cruz, P. J. Fernández-Campillo, A. F. Skarmeta, M. Á. Zamora-Izquierdo<br>
+  *Preprints*, 2026 · [doi:10.20944/preprints202608.1814.v1](https://doi.org/10.20944/preprints202608.1814.v1)
 
----
+- **Deep Learning for Soil Moisture Estimation: Fusing Satellite Data with Optimally-Lagged Meteorological Features**<br>
+  **A. Cánovas-Rodríguez**, A. González-Vidal, A. F. Skarmeta<br>
+  *arXiv:2606.21475*, 2026 · [paper](https://arxiv.org/abs/2606.21475) · [code](https://github.com/adricanovas/soil-moisture-crop-propagation)
 
-### 🚀 Projects
+- **Quantifying and Mitigating Domain Shift in Peach Leaf Damage Classification: Attention Mechanisms and Fine-Tuning Strategies**<br>
+  **A. Cánovas-Rodríguez**, M. A. González-Illán, M. F. García-Cruz, P. Nortes Tortosa, J. S. Rubio-Asensio, M. A. Zamora-Izquierdo, J. A. Martínez-Navarro, A. F. Skarmeta<br>
+  *arXiv:2606.02045*, 2026 · [paper](https://arxiv.org/abs/2606.02045) · [code](https://github.com/adricanovas/peach-leaf-cbam)
 
-- 🌲 [**ForestAnnotationRefinement**](https://github.com/adricanovas/ForestAnnotationRefinement) — Annotation refinement for forest monitoring
-- 🛰️ [**sat-img-download**](https://github.com/adricanovas/sat-img-download) — Satellite imagery pipeline for ML workflows
-- 🌡️ [**TemperatureDataImputation**](https://github.com/adricanovas/TemperatureDataImputation) — ML imputation for missing sensor data
-- 👁️ [**VIA**](https://github.com/adricanovas/VIA) — Computer vision project
-- 🤖 [**TRSBot**](https://github.com/adricanovas/TRSBot) — Task automation bot
-- 📄 [**Template-TF-FIUM**](https://github.com/adricanovas/Template-TF-FIUM) — LaTeX thesis template (UM)
+- **Chlorophyll-a Mapping and Prediction in the Mar Menor Lagoon Using C2RCC-Processed Sentinel-2 Imagery**<br>
+  A. Martínez-Ibarra, A. González-Vidal, **A. Cánovas-Rodríguez**, A. F. Skarmeta<br>
+  *arXiv:2510.09736*, 2025 · [paper](https://arxiv.org/abs/2510.09736) · [data](https://doi.org/10.5281/zenodo.18769187)
 
----
+Full and up-to-date list on [ORCID](https://orcid.org/0009-0002-7986-5615).
 
-### 📚 Publications
+### Selected repositories
 
-- 🌊 **Chlorophyll-a Mapping and Prediction in the Mar Menor Lagoon Using C2RCC-Processed Sentinel-2 Imagery** — Martínez-Ibarra, González-Vidal, **Cánovas-Rodríguez**, Skármeta · *arXiv:2510.09736* (Oct 2025) · [📄 paper](https://arxiv.org/abs/2510.09736)
+| Repository | Description |
+|---|---|
+| [turbidity_satellite_estimation](https://github.com/adricanovas/turbidity_satellite_estimation) | Surface turbidity estimation in the Mar Menor lagoon from Planet SuperDove imagery calibrated with in-situ CTD measurements |
+| [soil-moisture-crop-propagation](https://github.com/adricanovas/soil-moisture-crop-propagation) | Soil moisture estimation from satellite and lagged meteorological features, with leakage-aware grouped/temporal validation |
+| [peach-leaf-cbam](https://github.com/adricanovas/peach-leaf-cbam) | Attention-enhanced CNNs and transfer learning for peach leaf damage classification under domain shift |
+| [evaluation_desertification](https://github.com/adricanovas/evaluation_desertification) | Desertification assessment and forecasting from Sentinel-2 time series (2015–2025) with BiLSTM and ConvLSTM |
+| [ForestAnnotationRefinement](https://github.com/adricanovas/ForestAnnotationRefinement) | Effect of manual annotation refinement on instance segmentation accuracy in UAV-LiDAR forest inventories |
+| [sat-img-download](https://github.com/adricanovas/sat-img-download) | Download, cloud-masking and cropping of imagery from the Copernicus Data Space Ecosystem |
+| [Template-TF-FIUM](https://github.com/adricanovas/Template-TF-FIUM) | LaTeX template for bachelor's and master's theses at the Faculty of Computer Science, University of Murcia |
 
----
-<p align="center">
-  <a href="https://github.com/adricanovas">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adricanovas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/>
-  </a>
+### Tools
 
-  <a href="https://github.com/adricanovas">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adricanovas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-  </a>
-</p>
+**Machine learning:** Python, PyTorch, TensorFlow, scikit-learn, pandas, OpenCV, Jupyter<br>
+**Geospatial:** Sentinel-2, PlanetScope, Copernicus Data Space, QGIS<br>
+**Infrastructure:** Linux, Docker, Kubernetes, Git, SQL, LaTeX
