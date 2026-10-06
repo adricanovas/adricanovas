@@ -9,13 +9,6 @@ PhD candidate in Computer Science and Associate Professor at the **University of
   <a href="mailto:adriancr@um.es"><img src="https://img.shields.io/badge/Email-adriancr%40um.es-555555?style=flat-square" alt="Email"/></a>
 </p>
 
-### Research interests
-
-- Remote sensing for water and land monitoring (Sentinel-2, PlanetScope)
-- Deep learning for time series and multi-source data fusion
-- Computer vision for precision agriculture and forest inventory
-- AIoT and federated learning for distributed environmental sensing
-
 ### Publications
 
 - **AIoT-Driven Pest Monitoring Approach for Real-Time *Tuta absoluta* Detection and Population Prediction in a Controlled Greenhouse Environment**<br>
