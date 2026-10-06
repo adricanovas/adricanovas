@@ -1,6 +1,6 @@
 ## Adrián Cánovas Rodríguez
 
-PhD candidate in Computer Science and Associate Professor at the **University of Murcia** (Department of Information and Communication Engineering), Spain.
+PhD candidate in Computer Engineering and Associate Professor at the **University of Murcia** (Department of Information and Communication Engineering), Spain.
 
 My research applies machine learning and deep learning to **environmental monitoring**, fusing heterogeneous data sources such as satellite imagery, IoT sensor networks and meteorological records to address sustainability problems: water quality, soil moisture, crop health and land degradation. In 2026 I completed a research stay at **IBM Research Europe** (Dublin, Ireland).
 
