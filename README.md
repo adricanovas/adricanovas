@@ -2,21 +2,12 @@
 
 PhD candidate in Computer Engineering and Associate Professor at the **University of Murcia** (Department of Information and Communication Engineering), Spain.
 
-My research applies machine learning and deep learning to **environmental monitoring**, fusing heterogeneous data sources such as satellite imagery, IoT sensor networks and meteorological records to address sustainability problems: water quality, soil moisture, crop health and land degradation. In 2026 I completed a research stay at **IBM Research Europe** (Dublin, Ireland).
-
 <p>
   <a href="https://adricanovas.github.io/"><img src="https://img.shields.io/badge/Website-adricanovas.github.io-24292F?style=flat-square&logo=githubpages&logoColor=white" alt="Website"/></a>
   <a href="https://orcid.org/0009-0002-7986-5615"><img src="https://img.shields.io/badge/ORCID-0009--0002--7986--5615-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://www.linkedin.com/in/adricanovas/"><img src="https://img.shields.io/badge/LinkedIn-adricanovas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adriancr@um.es"><img src="https://img.shields.io/badge/Email-adriancr%40um.es-555555?style=flat-square" alt="Email"/></a>
 </p>
-
-### Research interests
-
-- Remote sensing for water and land monitoring (Sentinel-2, PlanetScope)
-- Deep learning for time series and multi-source data fusion
-- Computer vision for precision agriculture and forest inventory
-- AIoT and federated learning for distributed environmental sensing
 
 ### Publications
 
